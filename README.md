@@ -1,0 +1,1 @@
+# Automating-Scrolling-using-Python-Opencv-by-Color-Detection
